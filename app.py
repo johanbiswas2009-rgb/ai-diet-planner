@@ -17,7 +17,7 @@ try:
 except Exception:
     REPORTLAB_AVAILABLE = False
 
-DATA_PATH = "detailed_diet_data.csv"
+DATA_PATH = "diet_recommendation_sample (1).csv"
 
 @st.cache_resource
 def load_and_train(path=DATA_PATH):
@@ -90,7 +90,7 @@ def create_pdf_report(result_dict, filename):
 st.set_page_config(page_title="AI Diet Planner", layout="centered")
 
 st.title("🥗 AI Diet Planner (CSV-trained)")
-st.write("This app uses a static CSV (`detailed_diet_data.csv`) bundled with the app to train a model at startup. Enter your details below and press Generate.")
+st.write("This app uses a static CSV (`diet_recommendation_sample (1).csv`) bundled with the app to train a model at startup. Enter your details below and press Generate.")
 
 # load dataset and model
 with st.spinner("Loading training data and training model..."):
