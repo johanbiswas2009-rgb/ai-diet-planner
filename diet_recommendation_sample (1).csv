@@ -1,0 +1,501 @@
+Age,Gender,Height_cm,Weight_kg,Fitness_Goal,Diet_Preference,Diet_Plan,Breakfast,Lunch,Dinner,Snacks,Calories,Protein_g,Carbs_g,Fats_g
+46,Female,177,74,Maintenance,Non-Vegetarian,Balanced Plan,Protein shake,Rajma with roti,Grilled fish with veggies,Fruit salad,1566,108,217,36
+48,Male,150,94,Weight Loss,Vegan,High Protein Plan,Protein shake,Grilled chicken with salad,Vegetable soup with bread,Boiled corn,2419,85,196,100
+42,Female,169,51,Weight Loss,Vegan,Keto Plan,Upma with coconut chutney,Paneer rice bowl,Chicken stir fry,Fruit salad,2232,99,198,68
+54,Male,167,66,Weight Loss,Non-Vegetarian,Low Carb Plan,Smoothie bowl,Tofu stir fry,Tofu curry,Green smoothie,1561,162,230,56
+30,Male,173,81,Weight Loss,Vegan,Low Carb Plan,Protein shake,Tofu stir fry,Veg pasta,Boiled corn,2943,107,300,57
+20,Male,165,96,Maintenance,Non-Vegetarian,Low Carb Plan,Boiled eggs and toast,Quinoa with veggies,Tofu curry,Popcorn,1663,59,279,98
+31,Male,175,57,Muscle Gain,Vegetarian,Balanced Plan,Greek yogurt with nuts,Fish curry with rice,Veg pasta,Fruit salad,1838,125,256,56
+56,Male,167,77,Weight Loss,Vegetarian,Keto Plan,Greek yogurt with nuts,Rajma with roti,Chicken stir fry,Fruit salad,1996,121,165,50
+43,Male,186,86,Muscle Gain,Non-Vegetarian,Low Carb Plan,Protein shake,Rajma with roti,Lentil curry with rice,Protein bar,1939,111,140,71
+51,Female,181,86,Maintenance,Non-Vegetarian,Keto Plan,Smoothie bowl,Rajma with roti,Tofu curry,Fruit salad,1836,171,207,86
+55,Male,150,70,Weight Loss,Vegan,Balanced Plan,Smoothie bowl,Vegetable biryani,Lentil curry with rice,Nuts mix,2767,156,228,39
+24,Female,185,52,Maintenance,Vegan,High Protein Plan,Avocado toast,Paneer rice bowl,Lentil curry with rice,Fruit salad,2618,164,155,71
+32,Male,170,50,Maintenance,Non-Vegetarian,Balanced Plan,Upma with coconut chutney,Tofu stir fry,Paneer curry with rice,Green smoothie,2444,63,138,76
+37,Female,184,51,Muscle Gain,Non-Vegetarian,Keto Plan,Upma with coconut chutney,Dal and brown rice,Lentil curry with rice,Fruit salad,2965,65,132,62
+34,Female,167,57,Weight Loss,Vegetarian,Low Carb Plan,Upma with coconut chutney,Vegetable biryani,Lentil curry with rice,Chia pudding,2582,169,240,70
+22,Female,161,79,Maintenance,Vegan,Keto Plan,Oatmeal with fruits,Grilled chicken with salad,Tofu curry,Sprouts,2753,78,101,69
+28,Female,160,73,Maintenance,Vegan,Keto Plan,Upma with coconut chutney,Dal and brown rice,Salad and quinoa,Green smoothie,2847,60,264,41
+18,Male,177,61,Maintenance,Vegan,High Protein Plan,Smoothie bowl,Fish curry with rice,Grilled fish with veggies,Boiled corn,2685,114,179,47
+45,Male,164,58,Maintenance,Non-Vegetarian,Balanced Plan,Smoothie bowl,Dal and brown rice,Lentil curry with rice,Boiled corn,2878,151,132,77
+51,Female,155,78,Weight Loss,Non-Vegetarian,Low Carb Plan,Boiled eggs and toast,Dal and brown rice,Tofu curry,Fruit salad,2311,53,108,60
+53,Female,154,53,Muscle Gain,Vegetarian,High Protein Plan,Smoothie bowl,Fish curry with rice,Grilled fish with veggies,Sprouts,1696,179,124,41
+22,Male,157,70,Muscle Gain,Vegan,Balanced Plan,Oatmeal with fruits,Fish curry with rice,Tofu curry,Protein bar,2666,171,155,81
+22,Male,186,54,Muscle Gain,Vegetarian,Keto Plan,Protein shake,Vegetable biryani,Vegetable soup with bread,Green smoothie,1684,170,178,32
+59,Male,154,61,Maintenance,Vegan,High Protein Plan,Oatmeal with fruits,Tofu stir fry,Tofu curry,Sprouts,2862,180,144,37
+59,Female,184,51,Muscle Gain,Non-Vegetarian,Low Carb Plan,Avocado toast,Paneer rice bowl,Salad and quinoa,Sprouts,1794,153,134,54
+23,Female,154,98,Weight Loss,Non-Vegetarian,Low Carb Plan,Avocado toast,Fish curry with rice,Lentil curry with rice,Sprouts,2434,128,108,41
+56,Female,190,93,Weight Loss,Non-Vegetarian,High Protein Plan,Upma with coconut chutney,Rajma with roti,Lentil curry with rice,Fruit salad,1588,172,128,70
+42,Male,157,92,Weight Loss,Vegan,Keto Plan,Boiled eggs and toast,Quinoa with veggies,Veg pasta,Green smoothie,2135,59,178,98
+51,Female,174,82,Maintenance,Vegan,Low Carb Plan,Upma with coconut chutney,Tofu stir fry,Veg pasta,Sprouts,2305,180,199,80
+31,Female,171,98,Maintenance,Vegan,High Protein Plan,Upma with coconut chutney,Vegetable biryani,Vegetable soup with bread,Green smoothie,1589,114,124,74
+33,Male,163,73,Muscle Gain,Vegan,Low Carb Plan,Smoothie bowl,Dal and brown rice,Vegetable soup with bread,Sprouts,1606,141,249,100
+57,Female,180,75,Maintenance,Vegan,High Protein Plan,Oatmeal with fruits,Grilled chicken with salad,Tofu curry,Nuts mix,2939,71,287,56
+44,Female,174,75,Muscle Gain,Non-Vegetarian,High Protein Plan,Greek yogurt with nuts,Quinoa with veggies,Paneer curry with rice,Sprouts,1582,115,187,41
+39,Male,158,87,Weight Loss,Vegetarian,High Protein Plan,Greek yogurt with nuts,Dal and brown rice,Tofu curry,Boiled corn,1791,109,231,47
+39,Female,155,74,Weight Loss,Non-Vegetarian,High Protein Plan,Oatmeal with fruits,Dal and brown rice,Chicken stir fry,Chia pudding,2064,126,135,55
+28,Male,154,54,Maintenance,Vegan,High Protein Plan,Greek yogurt with nuts,Quinoa with veggies,Tofu curry,Boiled corn,1627,120,140,88
+39,Female,183,56,Weight Loss,Vegetarian,Low Carb Plan,Greek yogurt with nuts,Fish curry with rice,Vegetable soup with bread,Fruit salad,1622,101,194,97
+53,Male,155,83,Muscle Gain,Vegan,Low Carb Plan,Poha with vegetables,Quinoa with veggies,Grilled fish with veggies,Green smoothie,1973,50,238,55
+46,Female,178,100,Muscle Gain,Vegan,Balanced Plan,Smoothie bowl,Rajma with roti,Veg pasta,Fruit salad,2875,150,116,84
+55,Male,180,78,Weight Loss,Vegan,High Protein Plan,Smoothie bowl,Vegetable biryani,Grilled fish with veggies,Nuts mix,2109,170,111,83
+26,Female,190,74,Maintenance,Vegan,Keto Plan,Oatmeal with fruits,Dal and brown rice,Tofu curry,Chia pudding,2408,105,249,99
+30,Female,159,55,Muscle Gain,Vegan,High Protein Plan,Smoothie bowl,Rajma with roti,Paneer curry with rice,Boiled corn,2900,94,134,36
+34,Male,168,58,Maintenance,Vegetarian,Keto Plan,Boiled eggs and toast,Dal and brown rice,Paneer curry with rice,Nuts mix,2539,104,240,50
+55,Female,183,51,Maintenance,Vegan,Balanced Plan,Boiled eggs and toast,Grilled chicken with salad,Veg pasta,Sprouts,2763,127,248,45
+60,Male,156,61,Maintenance,Non-Vegetarian,High Protein Plan,Boiled eggs and toast,Rajma with roti,Paneer curry with rice,Boiled corn,2836,148,101,57
+22,Female,173,90,Muscle Gain,Non-Vegetarian,Balanced Plan,Avocado toast,Grilled chicken with salad,Vegetable soup with bread,Nuts mix,2238,110,149,39
+47,Male,187,56,Maintenance,Vegetarian,Low Carb Plan,Oatmeal with fruits,Dal and brown rice,Tofu curry,Boiled corn,1687,173,133,35
+51,Male,176,78,Maintenance,Vegetarian,Low Carb Plan,Upma with coconut chutney,Dal and brown rice,Tofu curry,Sprouts,2260,55,231,39
+53,Male,159,77,Muscle Gain,Vegan,Low Carb Plan,Protein shake,Quinoa with veggies,Lentil curry with rice,Green smoothie,1776,180,283,64
+40,Male,173,64,Weight Loss,Non-Vegetarian,Keto Plan,Avocado toast,Paneer rice bowl,Paneer curry with rice,Sprouts,2642,165,196,58
+24,Male,183,87,Muscle Gain,Vegetarian,Low Carb Plan,Avocado toast,Paneer rice bowl,Veg pasta,Boiled corn,1624,170,223,60
+20,Male,190,70,Maintenance,Vegetarian,Low Carb Plan,Smoothie bowl,Fish curry with rice,Lentil curry with rice,Nuts mix,2891,108,132,87
+54,Male,171,59,Muscle Gain,Vegan,Balanced Plan,Boiled eggs and toast,Quinoa with veggies,Grilled fish with veggies,Sprouts,1978,54,203,69
+53,Male,177,82,Maintenance,Vegan,Balanced Plan,Greek yogurt with nuts,Tofu stir fry,Vegetable soup with bread,Sprouts,2736,108,287,31
+48,Female,183,53,Muscle Gain,Vegetarian,Keto Plan,Upma with coconut chutney,Tofu stir fry,Salad and quinoa,Green smoothie,1649,142,202,33
+19,Male,181,56,Muscle Gain,Vegetarian,Balanced Plan,Upma with coconut chutney,Quinoa with veggies,Vegetable soup with bread,Chia pudding,2928,61,269,50
+42,Female,154,66,Weight Loss,Vegan,Balanced Plan,Avocado toast,Grilled chicken with salad,Chicken stir fry,Fruit salad,1775,90,123,38
+53,Male,157,53,Maintenance,Vegan,Keto Plan,Avocado toast,Dal and brown rice,Salad and quinoa,Fruit salad,2132,107,243,46
+56,Male,152,95,Maintenance,Vegetarian,Keto Plan,Smoothie bowl,Dal and brown rice,Salad and quinoa,Protein bar,1897,91,190,92
+46,Female,170,79,Weight Loss,Vegetarian,Balanced Plan,Upma with coconut chutney,Dal and brown rice,Chicken stir fry,Boiled corn,2869,103,235,85
+18,Female,157,54,Weight Loss,Vegan,Keto Plan,Upma with coconut chutney,Rajma with roti,Chicken stir fry,Fruit salad,2821,166,101,79
+58,Male,189,63,Weight Loss,Non-Vegetarian,High Protein Plan,Avocado toast,Quinoa with veggies,Chicken stir fry,Fruit salad,2074,163,204,96
+59,Female,156,100,Weight Loss,Vegan,Low Carb Plan,Protein shake,Dal and brown rice,Chicken stir fry,Protein bar,2879,168,119,93
+21,Female,164,62,Weight Loss,Vegetarian,Low Carb Plan,Poha with vegetables,Quinoa with veggies,Veg pasta,Green smoothie,2189,55,279,45
+27,Female,167,91,Weight Loss,Vegetarian,Low Carb Plan,Upma with coconut chutney,Rajma with roti,Veg pasta,Popcorn,1950,125,138,89
+47,Female,188,73,Maintenance,Non-Vegetarian,High Protein Plan,Poha with vegetables,Quinoa with veggies,Paneer curry with rice,Protein bar,2820,60,118,49
+19,Male,180,60,Weight Loss,Non-Vegetarian,High Protein Plan,Greek yogurt with nuts,Fish curry with rice,Veg pasta,Protein bar,2883,58,158,54
+19,Female,154,73,Weight Loss,Vegan,Balanced Plan,Oatmeal with fruits,Grilled chicken with salad,Lentil curry with rice,Chia pudding,2017,93,238,54
+36,Male,186,80,Maintenance,Non-Vegetarian,Keto Plan,Smoothie bowl,Vegetable biryani,Chicken stir fry,Popcorn,1633,59,103,93
+59,Female,155,74,Maintenance,Vegetarian,Keto Plan,Upma with coconut chutney,Quinoa with veggies,Lentil curry with rice,Nuts mix,2856,80,143,87
+56,Female,190,91,Weight Loss,Vegan,Keto Plan,Boiled eggs and toast,Vegetable biryani,Vegetable soup with bread,Boiled corn,1713,170,101,41
+21,Male,185,58,Muscle Gain,Non-Vegetarian,Balanced Plan,Greek yogurt with nuts,Grilled chicken with salad,Vegetable soup with bread,Protein bar,2965,85,286,84
+58,Female,166,83,Maintenance,Non-Vegetarian,High Protein Plan,Protein shake,Tofu stir fry,Paneer curry with rice,Green smoothie,2842,98,116,37
+31,Female,175,57,Weight Loss,Vegetarian,Low Carb Plan,Protein shake,Grilled chicken with salad,Chicken stir fry,Sprouts,2883,96,269,76
+22,Male,189,87,Maintenance,Vegetarian,Low Carb Plan,Avocado toast,Fish curry with rice,Paneer curry with rice,Protein bar,2665,99,135,47
+39,Male,186,87,Maintenance,Vegan,Low Carb Plan,Smoothie bowl,Fish curry with rice,Veg pasta,Protein bar,2195,108,208,75
+43,Male,188,93,Muscle Gain,Non-Vegetarian,Keto Plan,Protein shake,Quinoa with veggies,Veg pasta,Boiled corn,1502,128,263,65
+41,Male,160,82,Weight Loss,Non-Vegetarian,Low Carb Plan,Upma with coconut chutney,Fish curry with rice,Vegetable soup with bread,Fruit salad,1629,130,273,65
+28,Male,183,95,Maintenance,Non-Vegetarian,Keto Plan,Boiled eggs and toast,Tofu stir fry,Lentil curry with rice,Green smoothie,2920,143,181,92
+38,Male,159,87,Maintenance,Vegan,Keto Plan,Oatmeal with fruits,Tofu stir fry,Tofu curry,Protein bar,2184,179,196,53
+22,Male,181,94,Maintenance,Non-Vegetarian,Balanced Plan,Protein shake,Dal and brown rice,Veg pasta,Green smoothie,2236,84,207,70
+35,Male,172,80,Maintenance,Non-Vegetarian,High Protein Plan,Upma with coconut chutney,Grilled chicken with salad,Grilled fish with veggies,Popcorn,2617,89,283,31
+30,Male,178,70,Maintenance,Vegan,High Protein Plan,Smoothie bowl,Tofu stir fry,Salad and quinoa,Popcorn,2844,101,102,34
+33,Male,151,97,Muscle Gain,Non-Vegetarian,High Protein Plan,Avocado toast,Fish curry with rice,Veg pasta,Fruit salad,1532,155,235,35
+57,Female,178,81,Muscle Gain,Non-Vegetarian,Balanced Plan,Smoothie bowl,Rajma with roti,Salad and quinoa,Nuts mix,2605,142,275,30
+55,Male,178,68,Weight Loss,Vegetarian,High Protein Plan,Smoothie bowl,Grilled chicken with salad,Salad and quinoa,Boiled corn,2117,118,153,98
+21,Female,180,80,Maintenance,Vegan,Balanced Plan,Greek yogurt with nuts,Rajma with roti,Vegetable soup with bread,Protein bar,2487,150,138,52
+23,Male,154,97,Weight Loss,Vegan,Low Carb Plan,Oatmeal with fruits,Fish curry with rice,Veg pasta,Green smoothie,2077,50,200,98
+33,Male,152,66,Weight Loss,Vegan,Keto Plan,Avocado toast,Vegetable biryani,Veg pasta,Protein bar,1853,140,257,94
+44,Female,182,76,Muscle Gain,Non-Vegetarian,Low Carb Plan,Avocado toast,Rajma with roti,Salad and quinoa,Fruit salad,2344,165,122,93
+35,Female,187,64,Maintenance,Non-Vegetarian,High Protein Plan,Protein shake,Dal and brown rice,Paneer curry with rice,Fruit salad,1944,80,166,94
+44,Female,174,97,Weight Loss,Vegan,High Protein Plan,Avocado toast,Grilled chicken with salad,Tofu curry,Chia pudding,2219,164,123,61
+37,Female,170,66,Weight Loss,Non-Vegetarian,Keto Plan,Oatmeal with fruits,Dal and brown rice,Chicken stir fry,Protein bar,1815,141,120,33
+21,Female,172,72,Maintenance,Vegan,High Protein Plan,Smoothie bowl,Rajma with roti,Tofu curry,Boiled corn,2981,51,285,81
+34,Female,159,61,Muscle Gain,Non-Vegetarian,Balanced Plan,Greek yogurt with nuts,Vegetable biryani,Vegetable soup with bread,Boiled corn,2618,56,190,96
+34,Male,177,96,Weight Loss,Vegan,High Protein Plan,Greek yogurt with nuts,Tofu stir fry,Tofu curry,Protein bar,2184,169,191,36
+36,Female,153,82,Maintenance,Non-Vegetarian,High Protein Plan,Upma with coconut chutney,Grilled chicken with salad,Tofu curry,Green smoothie,2112,53,123,66
+52,Male,174,81,Maintenance,Vegetarian,Keto Plan,Oatmeal with fruits,Rajma with roti,Chicken stir fry,Nuts mix,1983,150,247,85
+50,Male,167,65,Maintenance,Non-Vegetarian,Low Carb Plan,Smoothie bowl,Vegetable biryani,Tofu curry,Sprouts,1787,68,127,73
+18,Male,176,69,Weight Loss,Vegan,Balanced Plan,Greek yogurt with nuts,Grilled chicken with salad,Tofu curry,Protein bar,1955,67,187,69
+30,Male,168,70,Weight Loss,Vegan,Keto Plan,Smoothie bowl,Quinoa with veggies,Salad and quinoa,Fruit salad,2930,144,239,85
+30,Female,150,92,Muscle Gain,Vegan,Keto Plan,Protein shake,Rajma with roti,Chicken stir fry,Protein bar,2245,72,176,91
+60,Female,183,55,Weight Loss,Vegetarian,Low Carb Plan,Boiled eggs and toast,Rajma with roti,Veg pasta,Boiled corn,2530,175,227,45
+58,Male,183,52,Weight Loss,Vegetarian,Keto Plan,Smoothie bowl,Dal and brown rice,Grilled fish with veggies,Green smoothie,1746,176,148,34
+41,Male,167,57,Muscle Gain,Vegetarian,Keto Plan,Poha with vegetables,Grilled chicken with salad,Lentil curry with rice,Fruit salad,2652,64,106,96
+18,Male,158,78,Muscle Gain,Non-Vegetarian,Low Carb Plan,Oatmeal with fruits,Fish curry with rice,Salad and quinoa,Sprouts,2012,102,158,77
+38,Female,158,73,Maintenance,Vegetarian,Balanced Plan,Upma with coconut chutney,Paneer rice bowl,Grilled fish with veggies,Chia pudding,1923,166,134,66
+33,Male,153,71,Weight Loss,Vegetarian,High Protein Plan,Smoothie bowl,Vegetable biryani,Lentil curry with rice,Nuts mix,1551,168,117,93
+49,Female,184,54,Muscle Gain,Vegan,Balanced Plan,Boiled eggs and toast,Dal and brown rice,Salad and quinoa,Popcorn,2853,63,174,96
+22,Female,174,71,Maintenance,Vegetarian,Balanced Plan,Protein shake,Grilled chicken with salad,Salad and quinoa,Sprouts,2696,69,251,67
+26,Male,178,55,Muscle Gain,Vegan,Low Carb Plan,Protein shake,Tofu stir fry,Vegetable soup with bread,Chia pudding,2697,179,132,57
+41,Male,151,71,Weight Loss,Non-Vegetarian,Balanced Plan,Oatmeal with fruits,Tofu stir fry,Grilled fish with veggies,Boiled corn,2849,119,191,63
+34,Female,154,82,Maintenance,Non-Vegetarian,Balanced Plan,Smoothie bowl,Dal and brown rice,Grilled fish with veggies,Sprouts,1996,129,262,30
+31,Female,172,99,Weight Loss,Vegan,High Protein Plan,Oatmeal with fruits,Tofu stir fry,Veg pasta,Boiled corn,2482,77,143,96
+38,Female,183,76,Weight Loss,Vegan,Balanced Plan,Boiled eggs and toast,Vegetable biryani,Chicken stir fry,Green smoothie,1675,52,183,95
+19,Female,186,63,Weight Loss,Vegetarian,Balanced Plan,Greek yogurt with nuts,Tofu stir fry,Lentil curry with rice,Protein bar,2452,102,125,55
+34,Male,182,91,Maintenance,Vegetarian,High Protein Plan,Poha with vegetables,Rajma with roti,Vegetable soup with bread,Nuts mix,1557,140,114,68
+27,Female,165,60,Maintenance,Vegan,Balanced Plan,Boiled eggs and toast,Fish curry with rice,Vegetable soup with bread,Green smoothie,2353,76,200,85
+34,Female,153,76,Maintenance,Non-Vegetarian,High Protein Plan,Protein shake,Fish curry with rice,Veg pasta,Nuts mix,2870,176,232,90
+31,Female,173,87,Maintenance,Vegan,High Protein Plan,Oatmeal with fruits,Paneer rice bowl,Vegetable soup with bread,Chia pudding,2065,166,118,50
+52,Male,178,58,Weight Loss,Vegan,High Protein Plan,Poha with vegetables,Grilled chicken with salad,Lentil curry with rice,Fruit salad,1658,153,179,32
+26,Male,177,94,Muscle Gain,Non-Vegetarian,Keto Plan,Smoothie bowl,Vegetable biryani,Tofu curry,Sprouts,1509,133,254,61
+40,Male,166,93,Maintenance,Non-Vegetarian,Balanced Plan,Protein shake,Grilled chicken with salad,Salad and quinoa,Nuts mix,2715,157,251,30
+23,Female,183,85,Maintenance,Vegetarian,High Protein Plan,Protein shake,Tofu stir fry,Grilled fish with veggies,Sprouts,2191,67,253,63
+55,Male,182,78,Maintenance,Vegetarian,Low Carb Plan,Greek yogurt with nuts,Fish curry with rice,Salad and quinoa,Boiled corn,2296,97,256,42
+51,Male,155,56,Maintenance,Vegetarian,Keto Plan,Smoothie bowl,Rajma with roti,Vegetable soup with bread,Chia pudding,2415,54,166,66
+41,Female,155,75,Maintenance,Vegetarian,Low Carb Plan,Poha with vegetables,Grilled chicken with salad,Vegetable soup with bread,Fruit salad,1565,140,299,77
+46,Female,175,85,Maintenance,Vegan,Balanced Plan,Protein shake,Grilled chicken with salad,Lentil curry with rice,Boiled corn,2627,69,261,73
+38,Male,184,91,Muscle Gain,Vegetarian,Balanced Plan,Protein shake,Quinoa with veggies,Tofu curry,Protein bar,2631,85,177,85
+55,Male,176,78,Muscle Gain,Vegan,High Protein Plan,Boiled eggs and toast,Quinoa with veggies,Veg pasta,Green smoothie,1786,125,152,43
+54,Female,184,81,Maintenance,Vegetarian,Low Carb Plan,Poha with vegetables,Quinoa with veggies,Paneer curry with rice,Nuts mix,1733,122,232,33
+51,Male,157,93,Maintenance,Vegan,Keto Plan,Oatmeal with fruits,Paneer rice bowl,Lentil curry with rice,Sprouts,2833,147,300,95
+25,Male,175,51,Maintenance,Non-Vegetarian,High Protein Plan,Greek yogurt with nuts,Fish curry with rice,Paneer curry with rice,Popcorn,2455,66,236,54
+23,Female,178,93,Muscle Gain,Non-Vegetarian,High Protein Plan,Protein shake,Quinoa with veggies,Vegetable soup with bread,Sprouts,2973,152,158,73
+54,Male,170,81,Weight Loss,Non-Vegetarian,Low Carb Plan,Boiled eggs and toast,Quinoa with veggies,Tofu curry,Protein bar,1779,86,295,35
+18,Female,179,78,Muscle Gain,Vegan,Balanced Plan,Upma with coconut chutney,Tofu stir fry,Chicken stir fry,Protein bar,1976,163,136,52
+18,Female,184,57,Maintenance,Vegan,Balanced Plan,Avocado toast,Paneer rice bowl,Lentil curry with rice,Fruit salad,1582,87,232,84
+44,Male,184,65,Weight Loss,Vegan,High Protein Plan,Poha with vegetables,Fish curry with rice,Grilled fish with veggies,Chia pudding,1532,74,188,99
+47,Male,150,69,Muscle Gain,Non-Vegetarian,Balanced Plan,Poha with vegetables,Fish curry with rice,Vegetable soup with bread,Green smoothie,2500,71,241,71
+59,Male,180,90,Weight Loss,Vegetarian,Low Carb Plan,Oatmeal with fruits,Paneer rice bowl,Vegetable soup with bread,Green smoothie,1706,120,169,47
+27,Male,188,55,Muscle Gain,Vegetarian,High Protein Plan,Smoothie bowl,Fish curry with rice,Tofu curry,Protein bar,2639,145,142,69
+27,Male,153,51,Weight Loss,Non-Vegetarian,Low Carb Plan,Poha with vegetables,Dal and brown rice,Lentil curry with rice,Sprouts,2722,65,103,55
+39,Female,167,89,Muscle Gain,Vegan,Balanced Plan,Greek yogurt with nuts,Dal and brown rice,Tofu curry,Sprouts,2472,50,190,43
+32,Male,168,58,Weight Loss,Vegan,Keto Plan,Smoothie bowl,Rajma with roti,Salad and quinoa,Sprouts,2756,77,138,37
+43,Female,167,70,Muscle Gain,Vegan,Low Carb Plan,Boiled eggs and toast,Paneer rice bowl,Grilled fish with veggies,Fruit salad,2627,87,265,80
+25,Male,180,62,Weight Loss,Vegan,Low Carb Plan,Oatmeal with fruits,Paneer rice bowl,Paneer curry with rice,Chia pudding,2452,180,283,95
+50,Male,163,93,Weight Loss,Vegetarian,High Protein Plan,Greek yogurt with nuts,Dal and brown rice,Grilled fish with veggies,Green smoothie,1715,129,103,57
+54,Female,187,96,Maintenance,Non-Vegetarian,Low Carb Plan,Avocado toast,Dal and brown rice,Tofu curry,Chia pudding,1986,171,167,32
+52,Male,163,98,Weight Loss,Vegan,High Protein Plan,Upma with coconut chutney,Quinoa with veggies,Vegetable soup with bread,Chia pudding,2935,64,120,48
+59,Male,178,72,Muscle Gain,Vegetarian,Keto Plan,Upma with coconut chutney,Vegetable biryani,Lentil curry with rice,Green smoothie,2712,61,171,98
+59,Male,173,58,Weight Loss,Vegan,Keto Plan,Greek yogurt with nuts,Grilled chicken with salad,Chicken stir fry,Green smoothie,2747,175,296,92
+18,Male,173,87,Muscle Gain,Non-Vegetarian,Balanced Plan,Boiled eggs and toast,Paneer rice bowl,Tofu curry,Nuts mix,2571,94,119,59
+25,Male,150,96,Muscle Gain,Vegan,High Protein Plan,Greek yogurt with nuts,Grilled chicken with salad,Grilled fish with veggies,Chia pudding,1562,168,169,33
+56,Male,161,64,Weight Loss,Non-Vegetarian,High Protein Plan,Greek yogurt with nuts,Rajma with roti,Veg pasta,Green smoothie,2808,146,161,76
+28,Male,159,67,Weight Loss,Non-Vegetarian,Keto Plan,Greek yogurt with nuts,Tofu stir fry,Salad and quinoa,Green smoothie,2063,111,105,70
+25,Female,185,84,Maintenance,Vegan,Low Carb Plan,Poha with vegetables,Tofu stir fry,Grilled fish with veggies,Chia pudding,1610,73,194,34
+46,Female,161,87,Maintenance,Non-Vegetarian,High Protein Plan,Poha with vegetables,Grilled chicken with salad,Grilled fish with veggies,Boiled corn,2003,170,260,56
+39,Male,167,66,Maintenance,Non-Vegetarian,Balanced Plan,Smoothie bowl,Vegetable biryani,Paneer curry with rice,Fruit salad,2936,65,148,49
+56,Male,166,65,Maintenance,Vegan,Balanced Plan,Smoothie bowl,Grilled chicken with salad,Grilled fish with veggies,Fruit salad,2973,156,164,93
+54,Female,163,72,Maintenance,Non-Vegetarian,High Protein Plan,Boiled eggs and toast,Vegetable biryani,Paneer curry with rice,Boiled corn,1979,128,132,83
+40,Female,164,95,Muscle Gain,Vegetarian,High Protein Plan,Upma with coconut chutney,Quinoa with veggies,Vegetable soup with bread,Protein bar,2330,98,154,100
+55,Male,181,56,Weight Loss,Non-Vegetarian,Low Carb Plan,Oatmeal with fruits,Quinoa with veggies,Vegetable soup with bread,Popcorn,2716,151,183,35
+45,Female,163,75,Maintenance,Vegetarian,Balanced Plan,Greek yogurt with nuts,Vegetable biryani,Vegetable soup with bread,Fruit salad,2483,99,238,61
+45,Male,189,51,Muscle Gain,Vegan,Keto Plan,Greek yogurt with nuts,Quinoa with veggies,Vegetable soup with bread,Sprouts,2307,72,168,49
+51,Female,170,84,Maintenance,Non-Vegetarian,Balanced Plan,Poha with vegetables,Vegetable biryani,Paneer curry with rice,Boiled corn,2603,139,152,57
+48,Male,161,83,Maintenance,Vegetarian,High Protein Plan,Avocado toast,Tofu stir fry,Grilled fish with veggies,Sprouts,2487,142,238,55
+56,Male,179,83,Weight Loss,Non-Vegetarian,Balanced Plan,Avocado toast,Vegetable biryani,Paneer curry with rice,Boiled corn,2025,106,196,81
+38,Female,153,76,Weight Loss,Non-Vegetarian,Balanced Plan,Upma with coconut chutney,Fish curry with rice,Salad and quinoa,Green smoothie,2489,127,246,47
+43,Female,169,70,Weight Loss,Vegan,Low Carb Plan,Greek yogurt with nuts,Grilled chicken with salad,Salad and quinoa,Fruit salad,1562,121,165,47
+54,Male,163,88,Weight Loss,Vegetarian,Balanced Plan,Avocado toast,Fish curry with rice,Vegetable soup with bread,Green smoothie,1526,171,138,76
+56,Female,161,73,Maintenance,Non-Vegetarian,High Protein Plan,Protein shake,Vegetable biryani,Vegetable soup with bread,Chia pudding,2713,87,135,34
+26,Male,184,71,Muscle Gain,Non-Vegetarian,Balanced Plan,Greek yogurt with nuts,Tofu stir fry,Lentil curry with rice,Fruit salad,2116,152,179,74
+40,Female,158,98,Weight Loss,Vegan,Balanced Plan,Poha with vegetables,Vegetable biryani,Grilled fish with veggies,Green smoothie,1773,136,290,32
+57,Female,187,69,Weight Loss,Vegan,High Protein Plan,Smoothie bowl,Quinoa with veggies,Lentil curry with rice,Protein bar,2653,177,276,82
+36,Male,176,99,Muscle Gain,Vegetarian,High Protein Plan,Avocado toast,Fish curry with rice,Chicken stir fry,Chia pudding,2741,69,256,47
+18,Female,157,67,Weight Loss,Vegetarian,High Protein Plan,Protein shake,Dal and brown rice,Chicken stir fry,Chia pudding,2909,148,224,52
+42,Male,151,62,Maintenance,Non-Vegetarian,Low Carb Plan,Smoothie bowl,Tofu stir fry,Paneer curry with rice,Green smoothie,2011,61,185,42
+32,Male,160,60,Muscle Gain,Non-Vegetarian,Balanced Plan,Greek yogurt with nuts,Quinoa with veggies,Paneer curry with rice,Chia pudding,1996,91,279,33
+30,Female,161,79,Maintenance,Vegan,Low Carb Plan,Poha with vegetables,Quinoa with veggies,Salad and quinoa,Sprouts,2009,164,273,76
+51,Female,154,77,Maintenance,Non-Vegetarian,High Protein Plan,Upma with coconut chutney,Dal and brown rice,Lentil curry with rice,Chia pudding,2633,114,217,63
+30,Male,165,53,Weight Loss,Vegan,Balanced Plan,Boiled eggs and toast,Grilled chicken with salad,Veg pasta,Popcorn,1685,50,169,91
+57,Female,163,75,Maintenance,Non-Vegetarian,Balanced Plan,Oatmeal with fruits,Quinoa with veggies,Salad and quinoa,Fruit salad,2569,86,241,46
+52,Female,189,96,Muscle Gain,Non-Vegetarian,High Protein Plan,Avocado toast,Dal and brown rice,Veg pasta,Sprouts,1565,176,203,40
+27,Female,164,91,Weight Loss,Vegetarian,Keto Plan,Oatmeal with fruits,Paneer rice bowl,Lentil curry with rice,Fruit salad,2002,148,282,31
+45,Male,178,53,Muscle Gain,Vegan,High Protein Plan,Smoothie bowl,Quinoa with veggies,Chicken stir fry,Sprouts,2762,89,299,83
+27,Female,152,71,Muscle Gain,Non-Vegetarian,Low Carb Plan,Poha with vegetables,Vegetable biryani,Paneer curry with rice,Popcorn,2639,119,224,48
+18,Male,176,96,Weight Loss,Vegan,High Protein Plan,Poha with vegetables,Fish curry with rice,Tofu curry,Nuts mix,1904,176,237,92
+44,Female,175,95,Maintenance,Vegan,Balanced Plan,Oatmeal with fruits,Quinoa with veggies,Veg pasta,Nuts mix,2170,61,239,41
+44,Male,188,56,Muscle Gain,Vegan,Keto Plan,Greek yogurt with nuts,Vegetable biryani,Tofu curry,Green smoothie,1876,99,286,98
+46,Male,152,77,Muscle Gain,Vegetarian,Keto Plan,Oatmeal with fruits,Fish curry with rice,Grilled fish with veggies,Nuts mix,1708,138,201,50
+33,Female,177,94,Weight Loss,Vegan,High Protein Plan,Upma with coconut chutney,Vegetable biryani,Grilled fish with veggies,Sprouts,2043,53,101,34
+22,Male,174,66,Weight Loss,Vegetarian,Balanced Plan,Oatmeal with fruits,Vegetable biryani,Vegetable soup with bread,Sprouts,2480,173,259,59
+30,Male,163,91,Maintenance,Vegetarian,Keto Plan,Avocado toast,Grilled chicken with salad,Grilled fish with veggies,Sprouts,1828,119,212,35
+51,Female,150,91,Muscle Gain,Vegan,Balanced Plan,Boiled eggs and toast,Vegetable biryani,Tofu curry,Green smoothie,2686,63,259,68
+21,Female,175,67,Muscle Gain,Vegetarian,Low Carb Plan,Upma with coconut chutney,Dal and brown rice,Lentil curry with rice,Fruit salad,2560,138,122,90
+49,Male,170,57,Weight Loss,Vegan,Keto Plan,Protein shake,Vegetable biryani,Vegetable soup with bread,Green smoothie,1863,143,163,50
+48,Female,159,73,Weight Loss,Vegetarian,Low Carb Plan,Boiled eggs and toast,Dal and brown rice,Salad and quinoa,Green smoothie,2279,150,255,54
+31,Male,179,90,Maintenance,Vegetarian,Keto Plan,Protein shake,Dal and brown rice,Veg pasta,Nuts mix,1706,72,178,57
+35,Female,158,77,Weight Loss,Vegan,Balanced Plan,Avocado toast,Fish curry with rice,Vegetable soup with bread,Popcorn,1606,61,299,82
+40,Male,171,87,Weight Loss,Vegan,Keto Plan,Protein shake,Paneer rice bowl,Lentil curry with rice,Nuts mix,1819,73,222,58
+47,Female,190,90,Muscle Gain,Non-Vegetarian,Balanced Plan,Greek yogurt with nuts,Paneer rice bowl,Paneer curry with rice,Popcorn,2343,93,104,67
+55,Female,166,84,Muscle Gain,Non-Vegetarian,Low Carb Plan,Oatmeal with fruits,Quinoa with veggies,Chicken stir fry,Popcorn,2454,143,170,33
+57,Male,155,75,Muscle Gain,Non-Vegetarian,High Protein Plan,Poha with vegetables,Fish curry with rice,Paneer curry with rice,Nuts mix,2811,180,171,86
+22,Male,175,98,Muscle Gain,Vegetarian,High Protein Plan,Oatmeal with fruits,Vegetable biryani,Grilled fish with veggies,Protein bar,2504,176,232,44
+19,Female,167,55,Maintenance,Non-Vegetarian,Keto Plan,Boiled eggs and toast,Tofu stir fry,Grilled fish with veggies,Boiled corn,1866,143,245,40
+42,Male,161,72,Maintenance,Vegetarian,Low Carb Plan,Protein shake,Vegetable biryani,Lentil curry with rice,Sprouts,2957,75,265,90
+21,Male,161,99,Muscle Gain,Vegan,High Protein Plan,Poha with vegetables,Grilled chicken with salad,Vegetable soup with bread,Boiled corn,2425,144,240,39
+28,Male,176,85,Muscle Gain,Vegan,Low Carb Plan,Boiled eggs and toast,Vegetable biryani,Salad and quinoa,Chia pudding,2340,145,162,48
+47,Male,175,57,Maintenance,Vegan,High Protein Plan,Protein shake,Grilled chicken with salad,Salad and quinoa,Sprouts,2116,98,274,56
+32,Male,169,72,Maintenance,Non-Vegetarian,High Protein Plan,Upma with coconut chutney,Vegetable biryani,Paneer curry with rice,Green smoothie,1865,125,129,82
+36,Male,165,99,Muscle Gain,Vegetarian,High Protein Plan,Protein shake,Quinoa with veggies,Vegetable soup with bread,Nuts mix,1597,60,278,67
+45,Male,158,62,Weight Loss,Vegan,Keto Plan,Smoothie bowl,Vegetable biryani,Lentil curry with rice,Sprouts,2994,162,258,44
+19,Female,175,72,Maintenance,Non-Vegetarian,High Protein Plan,Greek yogurt with nuts,Fish curry with rice,Paneer curry with rice,Popcorn,2489,71,214,73
+55,Male,164,70,Weight Loss,Vegan,Balanced Plan,Poha with vegetables,Rajma with roti,Tofu curry,Nuts mix,2061,101,272,75
+57,Male,180,65,Weight Loss,Vegetarian,High Protein Plan,Protein shake,Dal and brown rice,Veg pasta,Boiled corn,2639,132,107,40
+47,Male,158,62,Muscle Gain,Non-Vegetarian,Low Carb Plan,Oatmeal with fruits,Rajma with roti,Chicken stir fry,Popcorn,1632,85,143,54
+39,Male,158,96,Maintenance,Vegetarian,Keto Plan,Oatmeal with fruits,Vegetable biryani,Salad and quinoa,Chia pudding,1854,60,299,59
+22,Female,165,69,Maintenance,Vegan,Low Carb Plan,Boiled eggs and toast,Fish curry with rice,Vegetable soup with bread,Nuts mix,2370,52,152,38
+37,Female,153,71,Muscle Gain,Vegetarian,High Protein Plan,Oatmeal with fruits,Quinoa with veggies,Vegetable soup with bread,Boiled corn,2769,81,196,93
+22,Female,179,80,Maintenance,Vegetarian,Balanced Plan,Boiled eggs and toast,Paneer rice bowl,Salad and quinoa,Boiled corn,1747,50,178,61
+54,Male,163,54,Maintenance,Vegetarian,Balanced Plan,Upma with coconut chutney,Dal and brown rice,Paneer curry with rice,Nuts mix,2888,138,170,63
+26,Male,158,88,Maintenance,Vegan,Balanced Plan,Boiled eggs and toast,Fish curry with rice,Tofu curry,Sprouts,2186,113,141,52
+19,Female,152,77,Maintenance,Non-Vegetarian,Keto Plan,Avocado toast,Grilled chicken with salad,Chicken stir fry,Green smoothie,2070,80,155,93
+38,Male,184,99,Muscle Gain,Vegetarian,Balanced Plan,Upma with coconut chutney,Tofu stir fry,Tofu curry,Chia pudding,2357,117,208,71
+51,Male,184,100,Maintenance,Vegan,Low Carb Plan,Protein shake,Paneer rice bowl,Salad and quinoa,Boiled corn,2921,87,143,86
+28,Male,179,70,Weight Loss,Vegan,High Protein Plan,Poha with vegetables,Vegetable biryani,Grilled fish with veggies,Popcorn,2915,50,150,80
+38,Female,189,87,Muscle Gain,Vegetarian,High Protein Plan,Boiled eggs and toast,Tofu stir fry,Tofu curry,Sprouts,1999,96,142,44
+60,Male,151,97,Muscle Gain,Vegan,Low Carb Plan,Smoothie bowl,Grilled chicken with salad,Tofu curry,Chia pudding,1538,112,255,45
+18,Female,156,69,Maintenance,Non-Vegetarian,Low Carb Plan,Greek yogurt with nuts,Fish curry with rice,Tofu curry,Green smoothie,2612,52,110,40
+30,Male,151,55,Muscle Gain,Vegan,Balanced Plan,Oatmeal with fruits,Vegetable biryani,Salad and quinoa,Fruit salad,2409,170,247,38
+55,Female,172,82,Weight Loss,Vegetarian,Keto Plan,Greek yogurt with nuts,Quinoa with veggies,Tofu curry,Green smoothie,1765,113,146,78
+46,Male,182,61,Muscle Gain,Non-Vegetarian,Balanced Plan,Oatmeal with fruits,Tofu stir fry,Tofu curry,Popcorn,2534,70,205,55
+33,Male,173,80,Maintenance,Vegetarian,Keto Plan,Boiled eggs and toast,Fish curry with rice,Grilled fish with veggies,Sprouts,2109,161,300,74
+42,Male,184,86,Muscle Gain,Vegan,Balanced Plan,Smoothie bowl,Paneer rice bowl,Lentil curry with rice,Protein bar,2705,84,196,42
+44,Male,171,91,Maintenance,Non-Vegetarian,High Protein Plan,Poha with vegetables,Grilled chicken with salad,Chicken stir fry,Boiled corn,2307,114,146,56
+54,Female,154,95,Weight Loss,Vegan,Low Carb Plan,Poha with vegetables,Fish curry with rice,Paneer curry with rice,Chia pudding,2359,170,150,39
+35,Female,189,99,Muscle Gain,Non-Vegetarian,High Protein Plan,Protein shake,Vegetable biryani,Vegetable soup with bread,Boiled corn,2339,179,166,73
+58,Female,150,100,Weight Loss,Vegetarian,Keto Plan,Avocado toast,Rajma with roti,Salad and quinoa,Fruit salad,1756,151,252,47
+19,Female,181,90,Muscle Gain,Non-Vegetarian,Keto Plan,Poha with vegetables,Tofu stir fry,Lentil curry with rice,Sprouts,2748,151,215,76
+24,Male,184,82,Weight Loss,Non-Vegetarian,Balanced Plan,Poha with vegetables,Rajma with roti,Tofu curry,Protein bar,2965,106,262,30
+19,Female,161,69,Maintenance,Vegan,Keto Plan,Boiled eggs and toast,Grilled chicken with salad,Veg pasta,Sprouts,2021,118,268,34
+39,Male,177,74,Muscle Gain,Vegan,Balanced Plan,Avocado toast,Fish curry with rice,Vegetable soup with bread,Chia pudding,1675,75,104,83
+39,Male,163,89,Maintenance,Vegetarian,Low Carb Plan,Smoothie bowl,Grilled chicken with salad,Salad and quinoa,Green smoothie,1625,92,226,59
+49,Male,177,81,Weight Loss,Vegetarian,High Protein Plan,Protein shake,Paneer rice bowl,Salad and quinoa,Green smoothie,2685,118,115,96
+37,Male,170,71,Weight Loss,Vegetarian,Keto Plan,Upma with coconut chutney,Dal and brown rice,Lentil curry with rice,Green smoothie,2762,104,177,61
+47,Female,190,82,Muscle Gain,Vegetarian,Keto Plan,Upma with coconut chutney,Paneer rice bowl,Grilled fish with veggies,Protein bar,2052,119,273,92
+37,Male,177,78,Weight Loss,Vegan,Low Carb Plan,Oatmeal with fruits,Grilled chicken with salad,Lentil curry with rice,Chia pudding,2482,147,161,68
+46,Female,152,79,Muscle Gain,Non-Vegetarian,Keto Plan,Boiled eggs and toast,Fish curry with rice,Chicken stir fry,Nuts mix,2091,174,137,74
+27,Male,155,73,Muscle Gain,Vegan,High Protein Plan,Boiled eggs and toast,Paneer rice bowl,Lentil curry with rice,Sprouts,1888,81,143,60
+56,Male,163,97,Weight Loss,Vegetarian,High Protein Plan,Upma with coconut chutney,Quinoa with veggies,Grilled fish with veggies,Protein bar,2528,172,296,97
+24,Female,187,64,Weight Loss,Vegan,Balanced Plan,Upma with coconut chutney,Quinoa with veggies,Grilled fish with veggies,Fruit salad,2642,83,237,33
+53,Female,151,66,Weight Loss,Vegetarian,Balanced Plan,Smoothie bowl,Paneer rice bowl,Vegetable soup with bread,Chia pudding,1868,94,290,86
+20,Male,185,79,Muscle Gain,Vegan,Balanced Plan,Greek yogurt with nuts,Vegetable biryani,Lentil curry with rice,Chia pudding,2801,89,283,31
+53,Female,161,50,Maintenance,Non-Vegetarian,Balanced Plan,Boiled eggs and toast,Tofu stir fry,Veg pasta,Nuts mix,2783,147,265,43
+48,Female,186,94,Muscle Gain,Vegan,High Protein Plan,Protein shake,Fish curry with rice,Lentil curry with rice,Protein bar,2630,103,234,90
+37,Female,179,76,Maintenance,Non-Vegetarian,Low Carb Plan,Protein shake,Paneer rice bowl,Salad and quinoa,Chia pudding,2744,173,241,62
+18,Male,181,86,Maintenance,Vegan,Balanced Plan,Oatmeal with fruits,Tofu stir fry,Tofu curry,Green smoothie,2148,149,183,66
+42,Male,165,97,Maintenance,Vegetarian,Balanced Plan,Oatmeal with fruits,Tofu stir fry,Salad and quinoa,Fruit salad,2699,50,105,41
+42,Female,185,57,Maintenance,Non-Vegetarian,Keto Plan,Upma with coconut chutney,Quinoa with veggies,Tofu curry,Fruit salad,1952,156,177,42
+18,Male,170,92,Muscle Gain,Vegetarian,Low Carb Plan,Protein shake,Fish curry with rice,Tofu curry,Protein bar,1876,179,141,75
+49,Male,187,95,Muscle Gain,Vegan,Low Carb Plan,Boiled eggs and toast,Grilled chicken with salad,Vegetable soup with bread,Green smoothie,2518,171,176,30
+31,Female,178,53,Muscle Gain,Vegan,Keto Plan,Boiled eggs and toast,Quinoa with veggies,Chicken stir fry,Chia pudding,2809,93,188,39
+32,Female,153,69,Muscle Gain,Vegetarian,High Protein Plan,Avocado toast,Quinoa with veggies,Chicken stir fry,Nuts mix,2602,114,136,92
+48,Male,162,75,Maintenance,Non-Vegetarian,Low Carb Plan,Smoothie bowl,Quinoa with veggies,Paneer curry with rice,Sprouts,2120,105,271,47
+39,Male,176,83,Weight Loss,Vegetarian,High Protein Plan,Greek yogurt with nuts,Quinoa with veggies,Tofu curry,Green smoothie,2067,150,289,96
+36,Male,174,84,Maintenance,Vegetarian,Keto Plan,Smoothie bowl,Paneer rice bowl,Vegetable soup with bread,Fruit salad,2324,75,175,34
+50,Male,185,95,Muscle Gain,Vegan,High Protein Plan,Smoothie bowl,Fish curry with rice,Chicken stir fry,Protein bar,2497,74,164,80
+60,Male,168,62,Weight Loss,Non-Vegetarian,Low Carb Plan,Upma with coconut chutney,Grilled chicken with salad,Veg pasta,Protein bar,2312,121,229,42
+42,Female,176,90,Weight Loss,Vegan,High Protein Plan,Boiled eggs and toast,Fish curry with rice,Paneer curry with rice,Fruit salad,1956,105,220,88
+57,Female,159,79,Maintenance,Non-Vegetarian,Balanced Plan,Avocado toast,Quinoa with veggies,Vegetable soup with bread,Fruit salad,2132,84,250,36
+22,Female,152,83,Maintenance,Non-Vegetarian,Balanced Plan,Avocado toast,Vegetable biryani,Vegetable soup with bread,Nuts mix,2068,157,257,30
+25,Male,150,51,Weight Loss,Non-Vegetarian,Low Carb Plan,Boiled eggs and toast,Dal and brown rice,Salad and quinoa,Chia pudding,2562,140,279,30
+50,Female,151,85,Muscle Gain,Non-Vegetarian,High Protein Plan,Oatmeal with fruits,Quinoa with veggies,Veg pasta,Green smoothie,2996,151,298,53
+27,Male,154,82,Maintenance,Vegan,Balanced Plan,Oatmeal with fruits,Rajma with roti,Lentil curry with rice,Protein bar,2382,72,192,87
+36,Female,152,73,Weight Loss,Vegetarian,High Protein Plan,Upma with coconut chutney,Fish curry with rice,Salad and quinoa,Boiled corn,2622,146,231,47
+55,Female,187,74,Weight Loss,Vegetarian,Balanced Plan,Avocado toast,Paneer rice bowl,Grilled fish with veggies,Protein bar,2402,93,174,54
+50,Female,162,58,Weight Loss,Vegetarian,Low Carb Plan,Avocado toast,Paneer rice bowl,Paneer curry with rice,Chia pudding,1977,56,228,85
+29,Male,184,52,Muscle Gain,Vegan,Balanced Plan,Poha with vegetables,Paneer rice bowl,Paneer curry with rice,Protein bar,2186,165,230,39
+19,Female,165,67,Muscle Gain,Vegan,High Protein Plan,Poha with vegetables,Fish curry with rice,Lentil curry with rice,Sprouts,1746,105,242,94
+40,Male,182,63,Weight Loss,Vegan,Keto Plan,Avocado toast,Quinoa with veggies,Salad and quinoa,Green smoothie,1766,155,146,51
+35,Male,180,83,Maintenance,Vegan,Balanced Plan,Avocado toast,Rajma with roti,Paneer curry with rice,Boiled corn,1624,146,296,42
+57,Male,165,85,Muscle Gain,Vegetarian,Balanced Plan,Boiled eggs and toast,Fish curry with rice,Salad and quinoa,Protein bar,2618,74,169,44
+18,Male,190,79,Weight Loss,Vegetarian,Balanced Plan,Upma with coconut chutney,Quinoa with veggies,Salad and quinoa,Chia pudding,2505,142,269,86
+34,Male,173,87,Maintenance,Vegan,Balanced Plan,Avocado toast,Fish curry with rice,Grilled fish with veggies,Nuts mix,2473,55,211,55
+24,Male,171,52,Weight Loss,Vegan,Keto Plan,Protein shake,Dal and brown rice,Grilled fish with veggies,Green smoothie,2349,110,173,82
+47,Female,183,50,Weight Loss,Vegan,Keto Plan,Avocado toast,Tofu stir fry,Tofu curry,Green smoothie,2537,123,232,68
+57,Male,178,87,Maintenance,Non-Vegetarian,Balanced Plan,Avocado toast,Paneer rice bowl,Grilled fish with veggies,Boiled corn,2997,60,258,67
+34,Female,157,84,Maintenance,Vegetarian,Balanced Plan,Smoothie bowl,Paneer rice bowl,Salad and quinoa,Chia pudding,2921,159,122,34
+46,Male,184,85,Muscle Gain,Vegan,Balanced Plan,Poha with vegetables,Dal and brown rice,Lentil curry with rice,Fruit salad,2595,163,243,72
+34,Female,176,70,Maintenance,Vegetarian,High Protein Plan,Poha with vegetables,Grilled chicken with salad,Salad and quinoa,Chia pudding,2260,73,258,44
+21,Male,177,69,Maintenance,Vegan,Low Carb Plan,Upma with coconut chutney,Tofu stir fry,Paneer curry with rice,Boiled corn,2743,141,175,34
+23,Male,158,51,Maintenance,Vegetarian,Keto Plan,Boiled eggs and toast,Dal and brown rice,Grilled fish with veggies,Green smoothie,1535,103,167,70
+45,Male,184,71,Maintenance,Vegetarian,Low Carb Plan,Poha with vegetables,Vegetable biryani,Vegetable soup with bread,Protein bar,1526,76,294,79
+23,Female,164,91,Maintenance,Vegetarian,High Protein Plan,Upma with coconut chutney,Quinoa with veggies,Veg pasta,Protein bar,2850,126,146,43
+50,Male,166,62,Maintenance,Vegan,Balanced Plan,Greek yogurt with nuts,Rajma with roti,Vegetable soup with bread,Sprouts,2941,166,289,98
+32,Female,161,86,Weight Loss,Non-Vegetarian,Balanced Plan,Upma with coconut chutney,Dal and brown rice,Chicken stir fry,Fruit salad,1568,86,264,75
+35,Male,172,84,Weight Loss,Vegan,Keto Plan,Greek yogurt with nuts,Grilled chicken with salad,Grilled fish with veggies,Boiled corn,1815,98,213,93
+31,Female,172,57,Maintenance,Vegan,Low Carb Plan,Protein shake,Quinoa with veggies,Chicken stir fry,Sprouts,2054,137,180,84
+58,Female,150,53,Weight Loss,Vegetarian,Keto Plan,Protein shake,Paneer rice bowl,Vegetable soup with bread,Popcorn,2200,134,213,96
+46,Female,163,67,Weight Loss,Vegan,Balanced Plan,Smoothie bowl,Tofu stir fry,Paneer curry with rice,Sprouts,2777,104,261,57
+43,Male,175,72,Weight Loss,Non-Vegetarian,Keto Plan,Greek yogurt with nuts,Grilled chicken with salad,Salad and quinoa,Fruit salad,2571,101,190,94
+37,Male,154,75,Maintenance,Non-Vegetarian,Low Carb Plan,Smoothie bowl,Quinoa with veggies,Lentil curry with rice,Popcorn,2407,157,249,99
+59,Female,174,80,Muscle Gain,Vegetarian,Keto Plan,Boiled eggs and toast,Grilled chicken with salad,Paneer curry with rice,Boiled corn,2339,87,175,33
+40,Female,184,86,Maintenance,Non-Vegetarian,Low Carb Plan,Avocado toast,Grilled chicken with salad,Tofu curry,Chia pudding,2186,168,161,71
+24,Female,162,89,Muscle Gain,Non-Vegetarian,High Protein Plan,Poha with vegetables,Paneer rice bowl,Tofu curry,Green smoothie,1722,89,142,65
+35,Male,182,59,Maintenance,Vegan,Balanced Plan,Protein shake,Paneer rice bowl,Veg pasta,Nuts mix,2253,84,100,64
+19,Female,179,52,Weight Loss,Vegetarian,Balanced Plan,Smoothie bowl,Dal and brown rice,Paneer curry with rice,Sprouts,1935,157,275,44
+47,Male,166,80,Muscle Gain,Vegetarian,Keto Plan,Greek yogurt with nuts,Rajma with roti,Grilled fish with veggies,Chia pudding,1879,104,256,59
+43,Female,167,71,Muscle Gain,Vegetarian,Low Carb Plan,Greek yogurt with nuts,Quinoa with veggies,Grilled fish with veggies,Green smoothie,2436,165,270,55
+27,Female,156,59,Maintenance,Vegan,High Protein Plan,Boiled eggs and toast,Tofu stir fry,Paneer curry with rice,Sprouts,2269,160,212,62
+45,Male,185,67,Muscle Gain,Vegan,Low Carb Plan,Greek yogurt with nuts,Tofu stir fry,Lentil curry with rice,Protein bar,2223,126,249,50
+42,Female,188,62,Maintenance,Vegan,Low Carb Plan,Greek yogurt with nuts,Vegetable biryani,Chicken stir fry,Sprouts,2620,90,224,74
+29,Female,159,93,Muscle Gain,Non-Vegetarian,Balanced Plan,Poha with vegetables,Tofu stir fry,Grilled fish with veggies,Green smoothie,2363,93,255,31
+31,Female,188,94,Weight Loss,Vegan,High Protein Plan,Avocado toast,Dal and brown rice,Vegetable soup with bread,Protein bar,2731,168,208,69
+29,Male,178,62,Maintenance,Vegetarian,High Protein Plan,Poha with vegetables,Tofu stir fry,Grilled fish with veggies,Chia pudding,1580,85,129,96
+34,Female,162,86,Muscle Gain,Vegan,Low Carb Plan,Protein shake,Vegetable biryani,Chicken stir fry,Nuts mix,2348,118,180,61
+31,Female,182,60,Muscle Gain,Vegetarian,High Protein Plan,Greek yogurt with nuts,Vegetable biryani,Tofu curry,Sprouts,1646,118,287,92
+53,Male,181,97,Weight Loss,Non-Vegetarian,Keto Plan,Poha with vegetables,Dal and brown rice,Tofu curry,Green smoothie,2065,133,213,90
+50,Female,179,62,Maintenance,Non-Vegetarian,Low Carb Plan,Greek yogurt with nuts,Vegetable biryani,Lentil curry with rice,Chia pudding,1867,118,102,35
+40,Female,176,96,Weight Loss,Vegan,Low Carb Plan,Protein shake,Fish curry with rice,Vegetable soup with bread,Green smoothie,2140,111,299,40
+54,Female,182,73,Weight Loss,Vegan,Keto Plan,Boiled eggs and toast,Tofu stir fry,Tofu curry,Green smoothie,1955,114,120,93
+58,Female,177,61,Muscle Gain,Non-Vegetarian,High Protein Plan,Oatmeal with fruits,Fish curry with rice,Salad and quinoa,Protein bar,1644,158,183,85
+39,Female,176,68,Muscle Gain,Vegan,Balanced Plan,Smoothie bowl,Grilled chicken with salad,Tofu curry,Nuts mix,2403,94,249,89
+22,Male,162,91,Maintenance,Vegan,Keto Plan,Oatmeal with fruits,Quinoa with veggies,Veg pasta,Sprouts,1646,129,262,82
+35,Male,152,84,Muscle Gain,Vegetarian,Keto Plan,Protein shake,Grilled chicken with salad,Grilled fish with veggies,Fruit salad,2097,115,156,39
+49,Male,160,60,Maintenance,Vegan,Low Carb Plan,Oatmeal with fruits,Dal and brown rice,Tofu curry,Sprouts,2117,76,148,56
+40,Female,151,98,Muscle Gain,Vegetarian,High Protein Plan,Upma with coconut chutney,Paneer rice bowl,Veg pasta,Chia pudding,1529,119,127,77
+48,Female,190,62,Maintenance,Vegetarian,Balanced Plan,Boiled eggs and toast,Fish curry with rice,Paneer curry with rice,Green smoothie,2443,158,163,66
+44,Male,158,80,Muscle Gain,Non-Vegetarian,Balanced Plan,Boiled eggs and toast,Quinoa with veggies,Grilled fish with veggies,Protein bar,1629,127,144,75
+58,Male,151,51,Weight Loss,Vegetarian,Low Carb Plan,Protein shake,Grilled chicken with salad,Lentil curry with rice,Green smoothie,2489,78,237,57
+24,Male,185,59,Weight Loss,Non-Vegetarian,Keto Plan,Avocado toast,Fish curry with rice,Vegetable soup with bread,Green smoothie,1523,179,210,41
+34,Female,181,72,Muscle Gain,Vegetarian,Low Carb Plan,Smoothie bowl,Rajma with roti,Veg pasta,Fruit salad,1773,51,265,56
+46,Male,183,82,Weight Loss,Vegetarian,Low Carb Plan,Boiled eggs and toast,Paneer rice bowl,Salad and quinoa,Protein bar,1604,105,232,62
+56,Female,162,61,Weight Loss,Vegan,Keto Plan,Avocado toast,Paneer rice bowl,Vegetable soup with bread,Protein bar,2432,178,107,84
+31,Male,164,100,Muscle Gain,Non-Vegetarian,Keto Plan,Protein shake,Grilled chicken with salad,Veg pasta,Fruit salad,2824,57,282,61
+53,Female,161,53,Muscle Gain,Non-Vegetarian,High Protein Plan,Avocado toast,Dal and brown rice,Grilled fish with veggies,Sprouts,2785,175,103,54
+59,Male,165,88,Maintenance,Vegetarian,Low Carb Plan,Boiled eggs and toast,Vegetable biryani,Chicken stir fry,Green smoothie,2972,81,277,98
+53,Male,154,77,Maintenance,Non-Vegetarian,Keto Plan,Protein shake,Tofu stir fry,Paneer curry with rice,Protein bar,2005,92,242,75
+23,Female,181,90,Muscle Gain,Vegetarian,Low Carb Plan,Protein shake,Dal and brown rice,Salad and quinoa,Sprouts,2008,171,216,40
+18,Female,187,61,Muscle Gain,Vegetarian,Keto Plan,Protein shake,Dal and brown rice,Lentil curry with rice,Sprouts,2941,138,231,95
+28,Male,179,77,Weight Loss,Vegan,Keto Plan,Upma with coconut chutney,Rajma with roti,Grilled fish with veggies,Popcorn,2658,149,289,79
+19,Male,150,75,Weight Loss,Vegan,Keto Plan,Greek yogurt with nuts,Tofu stir fry,Chicken stir fry,Chia pudding,1500,112,274,80
+50,Female,165,66,Weight Loss,Vegetarian,Low Carb Plan,Greek yogurt with nuts,Fish curry with rice,Tofu curry,Chia pudding,2185,101,294,40
+21,Female,172,86,Weight Loss,Non-Vegetarian,Low Carb Plan,Protein shake,Rajma with roti,Lentil curry with rice,Sprouts,1966,160,271,90
+38,Female,150,78,Muscle Gain,Non-Vegetarian,High Protein Plan,Avocado toast,Rajma with roti,Veg pasta,Nuts mix,2891,64,277,86
+42,Female,153,78,Weight Loss,Vegetarian,Balanced Plan,Oatmeal with fruits,Quinoa with veggies,Tofu curry,Fruit salad,2199,83,296,87
+29,Female,172,95,Weight Loss,Vegetarian,Low Carb Plan,Greek yogurt with nuts,Vegetable biryani,Grilled fish with veggies,Protein bar,2675,113,241,80
+40,Female,185,54,Maintenance,Vegan,Low Carb Plan,Oatmeal with fruits,Quinoa with veggies,Grilled fish with veggies,Sprouts,1714,172,213,72
+47,Female,173,66,Weight Loss,Vegan,High Protein Plan,Poha with vegetables,Paneer rice bowl,Lentil curry with rice,Chia pudding,2199,114,113,65
+26,Male,158,96,Muscle Gain,Non-Vegetarian,Keto Plan,Avocado toast,Fish curry with rice,Vegetable soup with bread,Chia pudding,2703,70,125,87
+29,Female,152,75,Maintenance,Non-Vegetarian,High Protein Plan,Upma with coconut chutney,Vegetable biryani,Grilled fish with veggies,Protein bar,1934,152,158,56
+60,Male,167,75,Weight Loss,Non-Vegetarian,Keto Plan,Greek yogurt with nuts,Grilled chicken with salad,Chicken stir fry,Boiled corn,1842,103,164,45
+53,Female,155,90,Maintenance,Vegan,Low Carb Plan,Greek yogurt with nuts,Dal and brown rice,Paneer curry with rice,Fruit salad,1540,148,194,87
+26,Female,158,71,Weight Loss,Vegetarian,Low Carb Plan,Boiled eggs and toast,Fish curry with rice,Chicken stir fry,Boiled corn,2174,119,192,37
+57,Female,160,66,Maintenance,Vegetarian,Low Carb Plan,Oatmeal with fruits,Tofu stir fry,Lentil curry with rice,Sprouts,2829,74,110,41
+43,Male,187,67,Maintenance,Non-Vegetarian,High Protein Plan,Upma with coconut chutney,Paneer rice bowl,Lentil curry with rice,Fruit salad,2247,99,300,92
+49,Male,154,83,Muscle Gain,Non-Vegetarian,Balanced Plan,Oatmeal with fruits,Rajma with roti,Grilled fish with veggies,Protein bar,2214,120,250,94
+54,Female,188,89,Maintenance,Non-Vegetarian,High Protein Plan,Greek yogurt with nuts,Quinoa with veggies,Salad and quinoa,Protein bar,2282,138,204,52
+32,Male,162,94,Weight Loss,Vegetarian,Balanced Plan,Boiled eggs and toast,Vegetable biryani,Chicken stir fry,Protein bar,1919,161,294,72
+35,Male,172,65,Weight Loss,Vegetarian,High Protein Plan,Avocado toast,Quinoa with veggies,Paneer curry with rice,Nuts mix,1994,102,153,37
+42,Male,174,86,Muscle Gain,Vegetarian,Balanced Plan,Avocado toast,Grilled chicken with salad,Grilled fish with veggies,Nuts mix,1617,147,119,84
+55,Male,158,74,Weight Loss,Non-Vegetarian,Balanced Plan,Smoothie bowl,Tofu stir fry,Grilled fish with veggies,Protein bar,1992,57,216,92
+24,Male,189,56,Muscle Gain,Vegan,High Protein Plan,Avocado toast,Dal and brown rice,Salad and quinoa,Protein bar,2547,93,133,52
+43,Female,187,65,Maintenance,Vegan,Low Carb Plan,Poha with vegetables,Grilled chicken with salad,Lentil curry with rice,Boiled corn,2452,180,103,48
+38,Male,177,72,Muscle Gain,Non-Vegetarian,High Protein Plan,Avocado toast,Tofu stir fry,Chicken stir fry,Boiled corn,1579,55,271,51
+18,Female,187,96,Weight Loss,Non-Vegetarian,Balanced Plan,Protein shake,Dal and brown rice,Vegetable soup with bread,Fruit salad,2137,174,170,57
+43,Male,187,96,Weight Loss,Vegetarian,High Protein Plan,Oatmeal with fruits,Rajma with roti,Lentil curry with rice,Sprouts,1874,158,133,34
+50,Female,161,81,Maintenance,Vegetarian,Balanced Plan,Protein shake,Rajma with roti,Vegetable soup with bread,Boiled corn,2322,148,276,86
+30,Male,161,65,Muscle Gain,Non-Vegetarian,Low Carb Plan,Upma with coconut chutney,Fish curry with rice,Salad and quinoa,Boiled corn,2214,97,272,39
+47,Female,178,100,Maintenance,Vegan,High Protein Plan,Poha with vegetables,Dal and brown rice,Vegetable soup with bread,Popcorn,2188,74,141,87
+59,Male,174,91,Maintenance,Vegan,Low Carb Plan,Poha with vegetables,Paneer rice bowl,Paneer curry with rice,Popcorn,1816,103,148,78
+29,Male,160,91,Muscle Gain,Vegan,Low Carb Plan,Poha with vegetables,Grilled chicken with salad,Grilled fish with veggies,Green smoothie,2070,114,122,67
+45,Female,161,85,Maintenance,Non-Vegetarian,Balanced Plan,Poha with vegetables,Dal and brown rice,Salad and quinoa,Green smoothie,2925,124,219,77
+21,Female,190,52,Maintenance,Non-Vegetarian,High Protein Plan,Oatmeal with fruits,Quinoa with veggies,Vegetable soup with bread,Fruit salad,2624,69,293,30
+56,Male,166,53,Muscle Gain,Vegetarian,Low Carb Plan,Protein shake,Vegetable biryani,Vegetable soup with bread,Protein bar,1998,61,184,33
+45,Female,185,84,Weight Loss,Vegetarian,Low Carb Plan,Upma with coconut chutney,Grilled chicken with salad,Tofu curry,Sprouts,1951,146,271,100
+36,Male,155,77,Muscle Gain,Vegan,Low Carb Plan,Protein shake,Tofu stir fry,Tofu curry,Nuts mix,2152,70,136,44
+43,Male,174,75,Maintenance,Non-Vegetarian,Keto Plan,Protein shake,Paneer rice bowl,Grilled fish with veggies,Fruit salad,2897,124,254,51
+58,Female,161,88,Weight Loss,Vegan,Low Carb Plan,Protein shake,Quinoa with veggies,Veg pasta,Protein bar,1959,136,211,65
+43,Male,156,72,Weight Loss,Vegetarian,High Protein Plan,Protein shake,Vegetable biryani,Salad and quinoa,Fruit salad,2700,53,154,59
+58,Female,165,55,Maintenance,Vegetarian,High Protein Plan,Poha with vegetables,Quinoa with veggies,Tofu curry,Chia pudding,2541,73,251,58
+32,Female,172,97,Weight Loss,Vegetarian,Low Carb Plan,Smoothie bowl,Tofu stir fry,Lentil curry with rice,Green smoothie,1933,63,106,85
+21,Female,154,81,Weight Loss,Vegetarian,Balanced Plan,Oatmeal with fruits,Dal and brown rice,Chicken stir fry,Boiled corn,2935,96,199,46
+34,Female,164,68,Muscle Gain,Vegan,High Protein Plan,Oatmeal with fruits,Rajma with roti,Tofu curry,Protein bar,2701,100,102,40
+30,Male,153,57,Weight Loss,Vegan,Low Carb Plan,Oatmeal with fruits,Vegetable biryani,Vegetable soup with bread,Nuts mix,1809,132,130,48
+48,Male,178,98,Weight Loss,Vegetarian,Keto Plan,Boiled eggs and toast,Tofu stir fry,Paneer curry with rice,Green smoothie,2709,128,120,65
+24,Male,166,67,Weight Loss,Non-Vegetarian,Balanced Plan,Avocado toast,Rajma with roti,Tofu curry,Nuts mix,1867,99,120,66
+47,Male,190,66,Weight Loss,Non-Vegetarian,Keto Plan,Oatmeal with fruits,Dal and brown rice,Paneer curry with rice,Boiled corn,2813,136,254,89
+20,Male,188,63,Weight Loss,Vegetarian,Keto Plan,Oatmeal with fruits,Paneer rice bowl,Grilled fish with veggies,Fruit salad,1928,90,111,32
+36,Female,154,92,Muscle Gain,Vegetarian,Balanced Plan,Boiled eggs and toast,Dal and brown rice,Veg pasta,Protein bar,2796,174,102,42
+38,Male,173,84,Weight Loss,Vegan,Balanced Plan,Upma with coconut chutney,Quinoa with veggies,Salad and quinoa,Nuts mix,2446,63,219,95
+47,Female,176,79,Weight Loss,Vegetarian,Low Carb Plan,Upma with coconut chutney,Paneer rice bowl,Veg pasta,Protein bar,1957,164,148,58
+47,Female,153,66,Weight Loss,Non-Vegetarian,Keto Plan,Protein shake,Vegetable biryani,Lentil curry with rice,Sprouts,1788,121,281,46
+58,Male,181,83,Muscle Gain,Vegan,Low Carb Plan,Boiled eggs and toast,Dal and brown rice,Tofu curry,Nuts mix,2027,100,207,35
+58,Female,164,51,Muscle Gain,Vegan,High Protein Plan,Poha with vegetables,Fish curry with rice,Salad and quinoa,Nuts mix,2522,74,128,41
+19,Male,179,93,Weight Loss,Non-Vegetarian,Balanced Plan,Upma with coconut chutney,Grilled chicken with salad,Salad and quinoa,Boiled corn,2920,88,257,30
+39,Male,186,86,Maintenance,Non-Vegetarian,Balanced Plan,Boiled eggs and toast,Rajma with roti,Veg pasta,Green smoothie,2142,125,121,33
+32,Male,159,56,Maintenance,Vegetarian,High Protein Plan,Greek yogurt with nuts,Grilled chicken with salad,Salad and quinoa,Popcorn,2917,145,134,55
+26,Male,188,60,Maintenance,Vegetarian,Low Carb Plan,Boiled eggs and toast,Rajma with roti,Lentil curry with rice,Green smoothie,1904,180,158,49
+58,Male,179,100,Maintenance,Vegan,Balanced Plan,Smoothie bowl,Grilled chicken with salad,Tofu curry,Green smoothie,1688,145,236,44
+39,Male,154,59,Maintenance,Non-Vegetarian,Low Carb Plan,Protein shake,Paneer rice bowl,Chicken stir fry,Green smoothie,1567,117,288,66
+49,Male,177,55,Maintenance,Non-Vegetarian,Keto Plan,Poha with vegetables,Dal and brown rice,Veg pasta,Green smoothie,2193,92,168,61
+48,Male,154,77,Muscle Gain,Vegan,High Protein Plan,Oatmeal with fruits,Rajma with roti,Chicken stir fry,Boiled corn,2671,143,125,95
+24,Female,164,80,Muscle Gain,Non-Vegetarian,Balanced Plan,Boiled eggs and toast,Grilled chicken with salad,Salad and quinoa,Popcorn,1603,159,135,32
+19,Male,188,57,Maintenance,Non-Vegetarian,Balanced Plan,Upma with coconut chutney,Fish curry with rice,Salad and quinoa,Fruit salad,2413,88,254,74
+50,Male,171,95,Maintenance,Vegan,Low Carb Plan,Greek yogurt with nuts,Rajma with roti,Vegetable soup with bread,Chia pudding,1500,97,164,42
+35,Male,167,97,Weight Loss,Non-Vegetarian,High Protein Plan,Boiled eggs and toast,Fish curry with rice,Veg pasta,Fruit salad,2258,77,173,87
+48,Female,187,56,Weight Loss,Non-Vegetarian,Low Carb Plan,Poha with vegetables,Dal and brown rice,Lentil curry with rice,Popcorn,2274,55,241,45
+40,Male,185,93,Weight Loss,Vegan,Balanced Plan,Smoothie bowl,Rajma with roti,Lentil curry with rice,Popcorn,1521,149,149,72
+30,Female,153,93,Muscle Gain,Vegetarian,Low Carb Plan,Avocado toast,Quinoa with veggies,Veg pasta,Popcorn,2921,170,150,36
+51,Female,157,60,Maintenance,Vegetarian,Balanced Plan,Upma with coconut chutney,Fish curry with rice,Vegetable soup with bread,Popcorn,1938,118,293,72
+60,Female,174,76,Maintenance,Non-Vegetarian,Low Carb Plan,Smoothie bowl,Tofu stir fry,Chicken stir fry,Protein bar,2146,119,153,78
+47,Male,170,84,Muscle Gain,Vegan,Low Carb Plan,Avocado toast,Quinoa with veggies,Salad and quinoa,Boiled corn,2398,162,295,99
+49,Female,173,86,Maintenance,Vegetarian,Low Carb Plan,Upma with coconut chutney,Grilled chicken with salad,Vegetable soup with bread,Chia pudding,2310,146,110,72
+19,Male,170,78,Maintenance,Vegan,High Protein Plan,Boiled eggs and toast,Fish curry with rice,Chicken stir fry,Nuts mix,1979,105,147,88
+35,Female,150,58,Maintenance,Vegan,High Protein Plan,Oatmeal with fruits,Fish curry with rice,Lentil curry with rice,Boiled corn,2299,162,197,89
+39,Male,157,78,Muscle Gain,Vegan,Balanced Plan,Boiled eggs and toast,Fish curry with rice,Veg pasta,Nuts mix,2569,99,112,73
+18,Male,151,85,Maintenance,Non-Vegetarian,Keto Plan,Smoothie bowl,Quinoa with veggies,Chicken stir fry,Nuts mix,2195,52,287,54
+37,Female,181,87,Weight Loss,Vegetarian,High Protein Plan,Greek yogurt with nuts,Dal and brown rice,Lentil curry with rice,Fruit salad,1872,180,163,98
+35,Female,162,74,Weight Loss,Vegan,High Protein Plan,Smoothie bowl,Tofu stir fry,Lentil curry with rice,Nuts mix,2746,173,230,95
+55,Female,182,69,Weight Loss,Vegan,Keto Plan,Oatmeal with fruits,Grilled chicken with salad,Lentil curry with rice,Protein bar,2843,114,145,100
+22,Male,166,81,Weight Loss,Non-Vegetarian,Low Carb Plan,Protein shake,Quinoa with veggies,Veg pasta,Sprouts,2042,130,200,66
+34,Male,180,92,Maintenance,Vegetarian,Low Carb Plan,Smoothie bowl,Tofu stir fry,Salad and quinoa,Fruit salad,1576,65,254,75
+25,Female,184,51,Muscle Gain,Vegan,High Protein Plan,Upma with coconut chutney,Vegetable biryani,Lentil curry with rice,Popcorn,1978,152,173,42
+43,Male,163,69,Weight Loss,Vegetarian,Balanced Plan,Greek yogurt with nuts,Rajma with roti,Lentil curry with rice,Green smoothie,2232,152,297,93
+19,Female,172,76,Muscle Gain,Vegan,Keto Plan,Protein shake,Dal and brown rice,Grilled fish with veggies,Green smoothie,2780,53,212,100
+25,Female,150,50,Maintenance,Vegetarian,Balanced Plan,Smoothie bowl,Dal and brown rice,Lentil curry with rice,Chia pudding,2437,95,210,56
+27,Female,163,74,Muscle Gain,Vegetarian,High Protein Plan,Smoothie bowl,Rajma with roti,Paneer curry with rice,Protein bar,2652,91,236,35
+46,Female,154,53,Weight Loss,Vegetarian,High Protein Plan,Boiled eggs and toast,Grilled chicken with salad,Grilled fish with veggies,Protein bar,1589,166,100,99
+19,Female,151,90,Weight Loss,Vegan,Balanced Plan,Oatmeal with fruits,Fish curry with rice,Vegetable soup with bread,Boiled corn,2977,81,100,52
+41,Female,190,100,Muscle Gain,Vegan,High Protein Plan,Boiled eggs and toast,Quinoa with veggies,Grilled fish with veggies,Popcorn,2790,63,285,75
+28,Male,169,92,Maintenance,Vegan,Low Carb Plan,Oatmeal with fruits,Quinoa with veggies,Salad and quinoa,Green smoothie,1835,53,158,64
+46,Female,153,69,Maintenance,Non-Vegetarian,Keto Plan,Avocado toast,Paneer rice bowl,Vegetable soup with bread,Nuts mix,1502,104,127,74
+57,Female,159,52,Weight Loss,Non-Vegetarian,Keto Plan,Avocado toast,Grilled chicken with salad,Chicken stir fry,Green smoothie,1540,158,234,78
+58,Female,173,90,Maintenance,Non-Vegetarian,Low Carb Plan,Greek yogurt with nuts,Fish curry with rice,Salad and quinoa,Protein bar,2585,146,157,77
+35,Female,175,82,Maintenance,Non-Vegetarian,Balanced Plan,Smoothie bowl,Grilled chicken with salad,Lentil curry with rice,Boiled corn,1873,67,189,66
+53,Male,165,80,Weight Loss,Non-Vegetarian,Balanced Plan,Smoothie bowl,Fish curry with rice,Vegetable soup with bread,Chia pudding,2549,72,234,50
+19,Male,183,53,Weight Loss,Non-Vegetarian,Balanced Plan,Poha with vegetables,Dal and brown rice,Tofu curry,Nuts mix,2191,50,216,93
+34,Male,182,50,Weight Loss,Vegan,Low Carb Plan,Boiled eggs and toast,Grilled chicken with salad,Vegetable soup with bread,Nuts mix,2243,90,213,57
+28,Male,160,64,Muscle Gain,Vegetarian,High Protein Plan,Avocado toast,Dal and brown rice,Vegetable soup with bread,Chia pudding,2190,71,141,95
+37,Male,190,65,Weight Loss,Vegan,Low Carb Plan,Avocado toast,Grilled chicken with salad,Chicken stir fry,Chia pudding,2451,74,219,46
+23,Female,160,93,Muscle Gain,Vegetarian,High Protein Plan,Protein shake,Vegetable biryani,Grilled fish with veggies,Green smoothie,1559,54,153,83
+58,Female,160,56,Muscle Gain,Non-Vegetarian,Balanced Plan,Oatmeal with fruits,Dal and brown rice,Chicken stir fry,Sprouts,2620,94,112,31
+50,Male,153,86,Weight Loss,Vegan,Low Carb Plan,Boiled eggs and toast,Fish curry with rice,Chicken stir fry,Boiled corn,2878,71,222,49
+42,Male,189,89,Weight Loss,Vegan,Keto Plan,Boiled eggs and toast,Fish curry with rice,Lentil curry with rice,Green smoothie,1506,117,293,69
+53,Female,171,97,Maintenance,Vegan,High Protein Plan,Protein shake,Dal and brown rice,Salad and quinoa,Chia pudding,1654,56,236,80
+29,Male,155,50,Maintenance,Vegan,High Protein Plan,Upma with coconut chutney,Quinoa with veggies,Lentil curry with rice,Boiled corn,1630,102,239,58
+45,Male,188,59,Muscle Gain,Vegan,High Protein Plan,Protein shake,Rajma with roti,Tofu curry,Nuts mix,1555,93,257,100
+44,Male,163,56,Muscle Gain,Non-Vegetarian,High Protein Plan,Boiled eggs and toast,Dal and brown rice,Vegetable soup with bread,Nuts mix,1703,152,226,83
+52,Male,174,86,Muscle Gain,Non-Vegetarian,Keto Plan,Protein shake,Paneer rice bowl,Lentil curry with rice,Popcorn,2943,136,165,80
+24,Female,182,61,Muscle Gain,Vegetarian,Balanced Plan,Oatmeal with fruits,Fish curry with rice,Chicken stir fry,Popcorn,2501,175,156,87
+47,Male,188,56,Weight Loss,Vegan,High Protein Plan,Oatmeal with fruits,Vegetable biryani,Salad and quinoa,Chia pudding,1776,75,131,38
+36,Male,159,54,Muscle Gain,Vegetarian,Low Carb Plan,Boiled eggs and toast,Rajma with roti,Tofu curry,Green smoothie,2608,90,152,89
+55,Female,152,82,Muscle Gain,Vegetarian,Keto Plan,Greek yogurt with nuts,Rajma with roti,Grilled fish with veggies,Green smoothie,1606,87,102,74
+23,Female,180,69,Muscle Gain,Vegetarian,Balanced Plan,Oatmeal with fruits,Vegetable biryani,Salad and quinoa,Nuts mix,2918,112,254,31
+27,Male,167,69,Maintenance,Non-Vegetarian,Keto Plan,Protein shake,Rajma with roti,Veg pasta,Protein bar,2232,66,238,54
+44,Female,154,62,Muscle Gain,Vegan,High Protein Plan,Smoothie bowl,Paneer rice bowl,Grilled fish with veggies,Fruit salad,2565,85,279,68
+22,Female,159,70,Weight Loss,Non-Vegetarian,Low Carb Plan,Boiled eggs and toast,Fish curry with rice,Vegetable soup with bread,Green smoothie,2125,78,209,58
+54,Female,180,100,Muscle Gain,Vegan,Balanced Plan,Poha with vegetables,Fish curry with rice,Grilled fish with veggies,Fruit salad,1761,172,217,63
+44,Male,176,67,Weight Loss,Vegetarian,Balanced Plan,Greek yogurt with nuts,Grilled chicken with salad,Salad and quinoa,Fruit salad,2095,82,248,65
+53,Female,166,92,Muscle Gain,Non-Vegetarian,Low Carb Plan,Greek yogurt with nuts,Paneer rice bowl,Salad and quinoa,Popcorn,2705,88,253,45
+53,Male,175,82,Maintenance,Non-Vegetarian,Balanced Plan,Smoothie bowl,Vegetable biryani,Chicken stir fry,Protein bar,1558,110,148,51
+42,Female,157,53,Weight Loss,Non-Vegetarian,Low Carb Plan,Avocado toast,Grilled chicken with salad,Veg pasta,Chia pudding,2307,108,160,40
+50,Female,169,56,Muscle Gain,Vegetarian,High Protein Plan,Oatmeal with fruits,Dal and brown rice,Vegetable soup with bread,Popcorn,2701,61,175,91
+55,Male,183,97,Weight Loss,Vegan,High Protein Plan,Protein shake,Tofu stir fry,Grilled fish with veggies,Nuts mix,2003,107,103,38
+28,Female,189,61,Muscle Gain,Vegan,Keto Plan,Smoothie bowl,Tofu stir fry,Veg pasta,Sprouts,2945,148,261,75
+51,Male,176,91,Weight Loss,Non-Vegetarian,Low Carb Plan,Upma with coconut chutney,Paneer rice bowl,Salad and quinoa,Green smoothie,1988,174,209,54
+49,Male,169,87,Weight Loss,Vegetarian,Keto Plan,Upma with coconut chutney,Rajma with roti,Veg pasta,Boiled corn,2487,143,202,84
+54,Female,153,84,Weight Loss,Vegetarian,High Protein Plan,Boiled eggs and toast,Fish curry with rice,Tofu curry,Green smoothie,1632,70,221,85
+32,Female,151,62,Maintenance,Vegetarian,Keto Plan,Avocado toast,Fish curry with rice,Tofu curry,Chia pudding,2297,160,165,93
+52,Female,152,51,Muscle Gain,Vegetarian,Low Carb Plan,Greek yogurt with nuts,Tofu stir fry,Lentil curry with rice,Fruit salad,2713,119,188,100
+22,Female,182,84,Weight Loss,Non-Vegetarian,Balanced Plan,Protein shake,Tofu stir fry,Grilled fish with veggies,Popcorn,1539,130,117,92
+54,Male,167,99,Weight Loss,Non-Vegetarian,High Protein Plan,Avocado toast,Quinoa with veggies,Vegetable soup with bread,Boiled corn,2088,134,169,40
+35,Male,171,81,Weight Loss,Non-Vegetarian,High Protein Plan,Poha with vegetables,Tofu stir fry,Lentil curry with rice,Nuts mix,2494,143,214,58
+42,Male,163,64,Muscle Gain,Vegetarian,High Protein Plan,Poha with vegetables,Tofu stir fry,Salad and quinoa,Chia pudding,2160,62,287,80
+33,Male,186,78,Muscle Gain,Vegan,Balanced Plan,Upma with coconut chutney,Rajma with roti,Vegetable soup with bread,Nuts mix,1953,64,153,76
+38,Female,169,80,Weight Loss,Non-Vegetarian,Keto Plan,Boiled eggs and toast,Dal and brown rice,Salad and quinoa,Boiled corn,1889,81,277,77
+25,Male,174,90,Maintenance,Vegetarian,Keto Plan,Avocado toast,Grilled chicken with salad,Paneer curry with rice,Sprouts,1930,117,188,93
+53,Male,178,66,Muscle Gain,Non-Vegetarian,Low Carb Plan,Boiled eggs and toast,Fish curry with rice,Vegetable soup with bread,Nuts mix,2116,89,114,67
+51,Female,169,62,Muscle Gain,Vegan,Low Carb Plan,Protein shake,Dal and brown rice,Grilled fish with veggies,Green smoothie,2466,55,225,34
+24,Female,177,75,Muscle Gain,Vegetarian,Low Carb Plan,Oatmeal with fruits,Rajma with roti,Paneer curry with rice,Chia pudding,2208,65,213,54
+38,Female,171,71,Muscle Gain,Non-Vegetarian,Keto Plan,Smoothie bowl,Dal and brown rice,Salad and quinoa,Nuts mix,2709,177,279,41
+34,Male,184,50,Weight Loss,Non-Vegetarian,Keto Plan,Smoothie bowl,Grilled chicken with salad,Salad and quinoa,Popcorn,2511,87,124,59
+46,Female,167,53,Weight Loss,Vegetarian,Low Carb Plan,Avocado toast,Rajma with roti,Lentil curry with rice,Chia pudding,1862,127,198,95
+39,Male,183,58,Muscle Gain,Non-Vegetarian,Low Carb Plan,Avocado toast,Rajma with roti,Paneer curry with rice,Chia pudding,2714,137,244,55
+27,Male,168,53,Maintenance,Vegan,Low Carb Plan,Upma with coconut chutney,Tofu stir fry,Vegetable soup with bread,Boiled corn,2347,158,187,31
+21,Female,166,58,Weight Loss,Non-Vegetarian,Keto Plan,Greek yogurt with nuts,Fish curry with rice,Lentil curry with rice,Sprouts,2958,163,217,59
+36,Male,155,89,Weight Loss,Vegetarian,High Protein Plan,Upma with coconut chutney,Paneer rice bowl,Chicken stir fry,Green smoothie,1620,141,122,39
+29,Male,171,65,Muscle Gain,Vegan,Keto Plan,Upma with coconut chutney,Vegetable biryani,Tofu curry,Boiled corn,2238,134,166,43
+26,Female,187,100,Muscle Gain,Vegetarian,Balanced Plan,Smoothie bowl,Tofu stir fry,Chicken stir fry,Sprouts,1517,97,252,59
+46,Male,158,95,Weight Loss,Vegetarian,Keto Plan,Smoothie bowl,Vegetable biryani,Chicken stir fry,Nuts mix,2778,167,196,31
+44,Female,185,59,Weight Loss,Non-Vegetarian,Low Carb Plan,Oatmeal with fruits,Quinoa with veggies,Vegetable soup with bread,Chia pudding,2300,77,122,83
+28,Male,175,95,Weight Loss,Non-Vegetarian,High Protein Plan,Protein shake,Grilled chicken with salad,Lentil curry with rice,Boiled corn,2377,147,277,75
+58,Male,179,64,Weight Loss,Non-Vegetarian,Balanced Plan,Upma with coconut chutney,Rajma with roti,Vegetable soup with bread,Popcorn,2324,96,224,95
+50,Female,151,50,Muscle Gain,Vegan,Keto Plan,Boiled eggs and toast,Fish curry with rice,Vegetable soup with bread,Boiled corn,2590,121,185,84
+52,Female,160,100,Muscle Gain,Non-Vegetarian,Keto Plan,Avocado toast,Grilled chicken with salad,Grilled fish with veggies,Fruit salad,2075,115,186,81
+33,Female,155,59,Muscle Gain,Vegan,Low Carb Plan,Oatmeal with fruits,Grilled chicken with salad,Tofu curry,Chia pudding,2307,161,264,96
+57,Female,168,81,Muscle Gain,Vegetarian,Low Carb Plan,Protein shake,Vegetable biryani,Paneer curry with rice,Green smoothie,2866,139,207,70
+24,Male,165,89,Weight Loss,Non-Vegetarian,Balanced Plan,Upma with coconut chutney,Fish curry with rice,Paneer curry with rice,Green smoothie,2762,155,192,97
+21,Female,162,52,Muscle Gain,Vegetarian,High Protein Plan,Protein shake,Paneer rice bowl,Grilled fish with veggies,Fruit salad,2070,97,215,64
